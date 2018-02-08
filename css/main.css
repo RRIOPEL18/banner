@@ -25,9 +25,9 @@ html {
 }
 
 .banner {
-position: relative;
-border-color: #fff;
-overflow: hidden;
+  position: relative;
+  border-color: #fff;
+  overflow: hidden;
 }
 
 .banner-content {
