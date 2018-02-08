@@ -27,6 +27,7 @@ html {
 .banner {
 position: relative;
 border-color: #fff;
+padding-left: auto;
 }
 
 .banner-content {
@@ -34,5 +35,5 @@ border-color: #fff;
   position: absolute;
   bottom: 10px;
   overflow: hidden;
-  max-height: 80%;
+  max-height: 40%;
 }
