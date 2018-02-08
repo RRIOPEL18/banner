@@ -33,4 +33,6 @@ border-color: #fff;
   color: #fff;
   position: absolute;
   bottom: 10px;
+  overflow: hidden;
+  max-height: 80%;
 }
